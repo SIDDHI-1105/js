@@ -25,5 +25,6 @@ console.log(typeof valueinno2); // number
 let bol = 0
 let bool = Boolean(bol)
 console.log(bool)
+ 
 
   
