@@ -26,5 +26,5 @@ let bol = 0
 let bool = Boolean(bol)
 console.log(bool)
  
-
+console.log(+true)
   
